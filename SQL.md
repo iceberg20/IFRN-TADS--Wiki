@@ -4,7 +4,7 @@
 >
 > link: https://www.youtube.com/watch?v=E3rXVrTTROU
 
-> **Tema: SQL:IN and NOT IN**
+> **Tema: SQL: IN and NOT IN**
 >
 > link: https://www.youtube.com/watch?v=t0qWSrauQ-E
 
