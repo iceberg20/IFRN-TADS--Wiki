@@ -8,11 +8,11 @@
 >
 > link: https://www.youtube.com/watch?v=t0qWSrauQ-E
 
-> **Tema: SQL: Sql Training Online - Sql Max Function**
+> **Tema: SQL: W3Schools - Todos os comandos básicos**
 >
-> link: https://www.youtube.com/watch?v=TC4h5XN20-o
+> link: http://www.w3schools.com/sql/
 
-http://www.w3schools.com/sql/
+
 
 
 
