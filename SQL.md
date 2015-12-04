@@ -12,6 +12,8 @@
 >
 > link: https://www.youtube.com/watch?v=TC4h5XN20-o
 
+http://www.w3schools.com/sql/
+
 
 
 
