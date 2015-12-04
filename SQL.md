@@ -1,17 +1,21 @@
 #SQL server
 
  
- **ID: 1 Tema: SQL: Group By, Having, Min, Max Sum**
+ **ID: 1 Assunto: SQL** 
+ 
+ **Palavras chave: Group By, Having, Min, Max Sum**
 
  link: https://www.youtube.com/watch?v=E3rXVrTTROU
 
+ **ID: 2 Assunto: SQL**  
 
- **Tema: ID: 2 SQL: IN and NOT IN**
+ **Palavras chave: IN and NOT IN**
 
  link: https://www.youtube.com/watch?v=t0qWSrauQ-E
 
-
- **Tema: ID: 3 SQL: W3Schools - Todos os comandos básicos**
+ **ID: 3 Assunto: SQL - Todos os comandos básicos - Guia w3schools ** 
+ 
+ **Palavras chave: SQL, Guia **
 
  link: http://www.w3schools.com/sql/
 
