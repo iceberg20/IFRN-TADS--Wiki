@@ -1,7 +1,7 @@
 #SQL server
 
  
- ** ID: 1 Tema: SQL: Group By, Having, Min, Max Sum**
+ **ID: 1 Tema: SQL: Group By, Having, Min, Max Sum**
 
  link: https://www.youtube.com/watch?v=E3rXVrTTROU
 
