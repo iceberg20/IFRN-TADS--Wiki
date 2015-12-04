@@ -13,9 +13,9 @@
 
  link: https://www.youtube.com/watch?v=t0qWSrauQ-E
 
- **ID: 3 Assunto: SQL - Todos os comandos básicos - Guia w3schools ** 
+ **ID: 3 Assunto: SQL - Todos os comandos básicos - Guia w3schools** 
  
- **Palavras chave: SQL, Guia **
+ **Palavras chave: SQL, Guia**
 
  link: http://www.w3schools.com/sql/
 
