@@ -22,3 +22,9 @@
 [DEVMEDIA](http://www.devmedia.com.br/associndo-tabelas-no-sql-server/1964)
 
 --
+
+#### Atualizando seu fork
+fork, git, 
+> antes de fazer o pull request
+
+[link] (http://www.raphaelfabeni.com.br/atualizando-seu-fork/)
