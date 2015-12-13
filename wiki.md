@@ -59,3 +59,14 @@ fork, git,
 :link: http://www.raphaelfabeni.com.br/atualizando-seu-fork/
 
 --
+
+
+####ID: 7 :paperclip: Atualizando seu fork
+
+fork, git, 
+
+>:memo: antes de fazer o pull request
+
+:link: https://www.youtube.com/watch?v=v3OMEAU_4HI
+
+--
