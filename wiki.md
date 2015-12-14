@@ -1,9 +1,9 @@
-#WIKI 
+#WIKI
 
 --
 
-####ID: 1 :paperclip: Assunto: SQL 
- 
+####ID: 1 :paperclip: Assunto: SQL
+
  _Palavras chave: Group By, Having, Min, Max Sum_
 
  :link: https://www.youtube.com/watch?v=E3rXVrTTROU
@@ -19,11 +19,11 @@
 --
 
 ####ID: 3 :paperclip: Assunto: SQL - Todos os comandos básicos - Guia w3schools
- 
+
  _Palavras chave: SQL, Guia_
 
  :link: http://www.w3schools.com/sql/
- 
+
 --
 
 ####ID: 4 :paperclip: Store procedure
@@ -52,10 +52,20 @@ _sql, tabelas, join_
 
 ####ID: 7 :paperclip: Atualizando seu fork
 
-fork, git, 
+fork, git,
 
 >:memo: antes de fazer o pull request
 
 :link: http://www.raphaelfabeni.com.br/atualizando-seu-fork/
+
+--
+
+####ID: 8 :paperclip: DELETE + JOIN
+
+delete, join, sql
+
+>:memo: fazer um delete usando join
+
+:link: http://stackoverflow.com/questions/2763206/deleting-rows-with-mysql-left-join
 
 --
